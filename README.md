@@ -19,11 +19,11 @@
 
 ## FIRST PAGE 
     • Animations
-    •  Facts, infographics
+    • Facts, infographics
     • Content
 
 ## List of Pages (classification reqd)
-    •  Project 
+    • Project 
     • Description
     • Design
     • Modelling
@@ -47,13 +47,10 @@
     • Overview 
     • IHP 
     • Sci. Comm
-    • 
     • Collaboration
 
     • Safety
-    •           Achievements
-
-    • 
+    • Achievements 
 
     • Judging Form
     • Team 
@@ -64,4 +61,3 @@
 ## Resources
     • https://d3js.org/
     • https://visme.co/blog/website-color-schemes/ (16,12,20)
-    • 
