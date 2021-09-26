@@ -67,3 +67,4 @@
 ## Resources
     • https://d3js.org/
     • https://visme.co/blog/website-color-schemes/ (16,12,20)
+    * !(https://visme.co/blog/wp-content/uploads/2016/09/website16-1024x512.jpg)
