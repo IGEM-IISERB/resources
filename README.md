@@ -18,9 +18,15 @@
     • Accessibility - screen reader and voice over 
 
 ## FIRST PAGE 
+    * Logo
     • Animations
+    * World map
+    * Cancer / About Pictures
+    * Project Mascot
+    * Promo video
     • Facts, infographics
     • Content
+    * NavBar
 
 ## List of Pages (classification reqd)
     • Project 
